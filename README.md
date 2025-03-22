@@ -6,3 +6,7 @@ Today's task
 >How to create a branch in github
 >Commit changes
 >How to pull request
+
+Today's Task: How to download and clone the report 
+1.Azure devops
+2.Explanation by Komal vardhan lolugu
