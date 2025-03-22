@@ -1,5 +1,0 @@
-git
-git statud
-git status
-ls
-clear
